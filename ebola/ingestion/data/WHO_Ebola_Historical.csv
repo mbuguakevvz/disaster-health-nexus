@@ -1,0 +1,32 @@
+iso3,country,year,total_cases,deaths,cfr,strain,outbreak_id,ingested_at
+COD,DR Congo,1976,318,280,88.1,Zaire ebolavirus,first_outbreak,2026-05-29T09:08:10.006821
+SDN,Sudan,1976,284,151,53.2,Sudan ebolavirus,first_outbreak,2026-05-29T09:08:10.006821
+SDN,Sudan,1979,34,22,64.7,Sudan ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,1994,52,31,59.6,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COG,Congo,1995,315,250,79.4,Zaire ebolavirus,kikwit,2026-05-29T09:08:10.006821
+GAB,Gabon,1996,37,21,56.8,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+GAB,Gabon,1996,60,45,75.0,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COG,Congo,2001,57,43,75.4,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+GAB,Gabon,2001,65,53,81.5,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COG,Congo,2002,143,128,89.5,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COG,Congo,2003,35,29,82.9,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+SDN,Sudan,2004,17,7,41.2,Sudan ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2007,264,187,70.8,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2008,32,14,43.8,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2012,36,13,36.1,Bundibugyo ebolavirus,,2026-05-29T09:08:10.006821
+UGA,Uganda,2012,24,17,70.8,Sudan ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2014,66,49,74.2,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+GIN,Guinea,2014,3811,2543,66.7,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+LBR,Liberia,2014,10678,4810,45.0,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+SLE,Sierra Leone,2014,14124,3956,28.0,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+NGA,Nigeria,2014,20,8,40.0,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+SEN,Senegal,2014,1,0,0.0,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+MLI,Mali,2014,8,6,75.0,Zaire ebolavirus,west_africa,2026-05-29T09:08:10.006821
+COD,DR Congo,2017,8,4,50.0,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2018,3481,2299,66.0,Zaire ebolavirus,drc_2018,2026-05-29T09:08:10.006821
+COD,DR Congo,2020,130,55,42.3,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+GIN,Guinea,2021,23,12,52.2,Zaire ebolavirus,resurgence,2026-05-29T09:08:10.006821
+COD,DR Congo,2021,12,6,50.0,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2022,169,78,46.2,Zaire ebolavirus,,2026-05-29T09:08:10.006821
+UGA,Uganda,2022,164,55,33.5,Sudan ebolavirus,,2026-05-29T09:08:10.006821
+COD,DR Congo,2023,14,9,64.3,Zaire ebolavirus,,2026-05-29T09:08:10.006821

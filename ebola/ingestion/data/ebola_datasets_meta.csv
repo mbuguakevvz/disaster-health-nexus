@@ -1,0 +1,11 @@
+name,title,org,formats
+drc-uganda-ebola-outbreak-osm-may-2026,DRC & Uganda - Ebola Outbreak - May 2026 - OpenStreetMap Data,Humanitarian OpenStreetMap Team (HOT),"['GeoJSON', 'SHP', 'GeoJSON', 'SHP', 'GeoJSON', 'SHP', 'GeoJSON', 'SHP']"
+world-health-organization-who-cholera-data,World Health Organization (WHO)  Cholera Data,World Health Organization,['XLSX']
+gambia_covid19_subnational,Gambia: Coronavirus (Covid-19) Subnational,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'CSV', 'CSV']"
+south-sudan-coronavirus-covid-19-cases,South Sudan: Coronavirus (Covid-19) Cases,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'CSV', 'CSV']"
+guinea-coronavirus-covid-19-subnational,Guinea: Coronavirus (Covid-19) Subnational,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"
+democratic-republic-of-the-congo-ebola-2021-cumulative-cases-national,Democratic Republic of the Congo : Ebola (2021) Cumulative cases (national),HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"
+democratic-republic-of-congo-ebola-2021-subnational-cases,Democratic Republic of the Congo: Ebola (2021) Subnational cases,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"
+liberia_covid19_subnational,Liberia: Coronavirus (Covid-19) Subnational,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"
+sierre-leone-coronavirus-covid-19-subnational,Sierra Leone: Coronavirus (Covid-19) Subnational,HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"
+guinea-ebola-2021-cumulative-cases-national,Guinea: Ebola (2021) Cumulative cases (national),HERA - Humanitarian Emergency Response Africa,"['XLSX', 'XLS', 'CSV', 'CSV']"

@@ -1,28 +1,5 @@
-# Data ingestion
-requests==2.31.0
+﻿streamlit==1.31.0
 pandas==2.1.4
-geopandas==0.14.1
-httpx==0.26.0
-
-# Database
-psycopg2-binary==2.9.9
-sqlalchemy==2.0.25
-GeoAlchemy2==0.14.3
-
-# Pipeline orchestration
-apache-airflow==2.8.1
-
-# API
-fastapi==0.109.0
-uvicorn==0.27.0
-
-# Dashboard
-streamlit==1.31.0
-folium==0.15.1
-streamlit-folium==0.18.0
 plotly==5.18.0
-
-# Utilities
-python-dotenv==1.0.0
-loguru==0.7.2
-pydantic==2.5.3
+requests==2.31.0
+numpy==1.26.0
